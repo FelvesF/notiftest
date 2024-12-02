@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200639446589",
+    "project_id": "testnotif-45c67",
+    "storage_bucket": "testnotif-45c67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200639446589:android:b85f858e293c79a091f454",
+        "android_client_info": {
+          "package_name": "com.felves.testnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuKgRWFQjxS8VZU_-i46yiG-LRd3xmx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
